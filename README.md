@@ -49,4 +49,4 @@ jupyter lab
 ```
 
 Run notebooks from their own folder; local data is loaded from `../../data/`.
-`FMNIST.ipynb` expects the Fashion-MNIST CSV (originally run on Colab at `/content/sample_data/`).
+`FMNIST.ipynb` downloads Fashion-MNIST automatically via torchvision into `data/FashionMNIST/` (not tracked by git).
