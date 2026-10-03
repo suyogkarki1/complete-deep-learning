@@ -50,3 +50,8 @@ jupyter lab
 
 Run notebooks from their own folder; local data is loaded from `../../data/`.
 `FMNIST.ipynb` downloads Fashion-MNIST automatically via torchvision into `data/FashionMNIST/` (not tracked by git).
+
+## License
+
+The code in this repository is released under the [MIT License](LICENSE).
+Datasets in `data/` and those downloaded by the notebooks belong to their original authors and keep their own terms.
