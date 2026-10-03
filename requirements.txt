@@ -1,0 +1,14 @@
+torch
+torchvision
+torchinfo
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+h5py
+Pillow
+optuna
+nltk
+requests
+jupyter
